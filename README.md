@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @JobaHD
-- 👀 I’m interested in achieving a stable job after graduation on coding
-- 🌱 I’m currently learning javascript, html, and css
-- 💞️ I’m looking to collaborate on learning project and the like
+- 👋 Hi, I’m @JobaHD.
+- 👀 I’m interested in learning as much as I can about electronics, and programming. 
+- 🌱 I’m currently learning C and electrical engineering.
+- 💞️ I’m looking to collaborate on anything that deals with lower-level programming.
 - 📫 How to reach me:
-  - @jobahd on discord
+  - @jobahd on discord.
 
 <!---
 JobaHD/JobaHD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
