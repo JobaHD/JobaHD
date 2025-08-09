@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JobaHD.
+- 👋 Hi, I’m @Sammy.
 - 👀 I’m interested in learning as much as I can about electronics, and programming. 
 - 🌱 I’m currently learning C and electrical engineering.
 - 💞️ I’m looking to collaborate on anything that deals with lower-level programming.
